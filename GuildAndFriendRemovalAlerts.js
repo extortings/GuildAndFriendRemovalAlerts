@@ -3,7 +3,7 @@
  * @version 1.0.0
  * @description Displays alerts when you are kicked/banned from a server, a server is deleted, and when a friend removes you.
  * @author nick
- * @source https://github.com/Metalloriff/BetterDiscordPlugins/GuildAndFriendRemovalAlerts
+ * @source https://github.com/nickrunsyou/GuildAndFriendRemovalAlerts
  * @website https://discord.gg/customize
  * @invite customize
  */
